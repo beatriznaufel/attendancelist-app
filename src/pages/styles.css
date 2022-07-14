@@ -4,12 +4,38 @@
     flex-direction: column;
 }
 
-.container h1 {
+.container header {
+    width: 40%;
     margin: 84px 0 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    color: #ffffff;
+}
+
+header strong {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 10px;
+}
+
+.container header img {
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    margin-left: 15px;
+}
+
+.container header div {
+    display: flex;
+    align-items: center;
 }
 
 .container input {
-    width: 50%;
+    width: 40%;
     padding: 24px;
     background: #e6e6e6;
     border-radius: 5px;
@@ -18,10 +44,10 @@
 }
 
 .container button {
-    width: 50%;
+    width: 40%;
     padding: 24px;
     font-weight: 700;
-    background: #ffafcc;
+    background: #ea4c89;
     color: #ffffff;
     border-radius: 5px;
     margin: 12px 0 84px;

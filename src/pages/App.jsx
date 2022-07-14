@@ -21,9 +21,16 @@ second: '2-digit',
 
   return (
     <div className="container">
+      <header>
     <h1>Attendance List</h1>
+    <div>
+      <strong>Maria Beatriz</strong>
+      <img src="https://github.com/beatriznaufel.png" alt="Profile photo" />
+    </div>
+    </header>
+
     <input type="text" 
-    placeholder="Enter your name..."
+    placeholder="Type your name"
     onChange={e => setStudentName(e.target.value)}
     />
     <button type="button" onClick={handleAddStudent}>Add</button>
