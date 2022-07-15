@@ -9,7 +9,6 @@
 
 This is my first project using ReactJS.
 </br>
-</br>
 
 # Techs
 
