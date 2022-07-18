@@ -7,7 +7,7 @@
 
 # About the project
 
-This is my first project using ReactJS.
+[Attendance List](https://react-app-beatriznaufel.vercel.app) is my first project using ReactJS.
 </br>
 
 # Techs
