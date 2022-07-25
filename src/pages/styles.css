@@ -6,7 +6,7 @@
 
 .container header {
     width: 40%;
-    margin: 84px 0 24px;
+    margin: 150px 0 24px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -60,3 +60,33 @@ header strong {
 .container button:hover {
     filter: brightness(0.9);
 }
+
+@media only screen and (max-width: 600px) {
+    .container input {
+      width: 85%;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    .container button {
+      width: 85%;
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+    .container header {
+      width: 85%;
+
+    }
+
+    @media only screen and (max-width: 600px) {
+        header strong {
+         margin-left: 50px;
+        }
+      }
+
+  @media only screen and (max-width: 600px) {
+    .container header img {
+      margin-right: 10px;
+    }
+  }
