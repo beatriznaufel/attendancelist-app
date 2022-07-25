@@ -76,8 +76,8 @@ header strong {
   @media only screen and (max-width: 600px) {
     .container header {
       width: 85%;
-
     }
+  }
 
     @media only screen and (max-width: 600px) {
         header strong {
