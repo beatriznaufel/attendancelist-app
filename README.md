@@ -8,7 +8,6 @@
 # About the project
 
 [Attendance List](https://react-app-beatriznaufel.vercel.app) is my first project using ReactJS.
-</br>
 
 # Techs
 
