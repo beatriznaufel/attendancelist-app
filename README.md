@@ -9,20 +9,20 @@
 
 [Attendance List](https://react-app-beatriznaufel.vercel.app) is my first project using ReactJS.
 
-# Techs
+## 🛠️ Techs
 
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://www.w3schools.com/css/)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [ReactJS](https://reactjs.org/)
+- HTML
+- CSS
+- JavaScript
+- ReactJS
 
-# Install
+## Install
 Clone this repository and install it dependencies with this command: 
 ```sh
 $ yarn install
 ```
 
-# Running
+## Running
 Run the application with `yarn dev` command, it will start the app:
 ```sh
 $ yarn dev
