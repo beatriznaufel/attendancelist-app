@@ -1,5 +1,5 @@
 
-<h1 align="center"> Attendance List </h1>
+<h1> Attendance List </h1>
 
 <h1 align="center">
   <img src="cover.png">
@@ -11,10 +11,9 @@
 
 ## 🛠️ Techs
 
-- HTML
-- CSS
-- JavaScript
 - ReactJS
+- CSS
+- Vite
 
 ## Install
 Clone this repository and install it dependencies with this command: 
